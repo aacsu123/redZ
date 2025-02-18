@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://github.com/W-Scripts/TFv2-Bloxfruits/blob/main/Tfv2"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/W-Scripts/TFv2-Bloxfruits/refs/heads/main/Tfv2"))()
